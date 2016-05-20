@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "LegacyCompat"
+	"version"     "1.0.0"
+	"author_name" "!cake"
+	"author_url"  ""
+	"info"        "Garry's Mod 12 compatibility"
+	"override"    "0"
+}
